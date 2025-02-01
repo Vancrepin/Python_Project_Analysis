@@ -46,8 +46,5 @@ Visualisation : Power BI, Tableau
 
 Machine Learning : Régression, Classification, Clustering
 
-📩 Contact
 
-Si vous avez des questions ou souhaitez collaborer, n’hésitez pas à me contacter :
-📧 Email : van.crepin@yahoo.fr🔗 LinkedIn🔗 GitHub
 
